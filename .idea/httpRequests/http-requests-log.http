@@ -1,0 +1,286 @@
+GET http://127.0.0.1:5000/users
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-20T023031.200.html
+
+###
+
+GET http://127.0.0.1:5000/users
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-20T022854.200.html
+
+###
+
+GET http://127.0.0.1:5000/user
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-20T022845.404.html
+
+###
+
+POST http://127.0.0.1:5000/role?roleId=inv-01&name=Inventory_Management&membership=false&promotion=false&inventory=true&createdAt=1550646797&updateAt=1550646797
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-20T022212.500.html
+
+###
+
+POST http://127.0.0.1:5000/users?roleId=inv-01&name=Inventory_Management&membership=false&promotion=false&inventory=true&createdAt=1550646797&updateAt=1550646797
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-20T021924.500.html
+
+###
+
+GET http://127.0.0.1:5000/users?roleId=inv-01&name=Inventory_Management&membership=false&promotion=false&inventory=true&createdAt=1550646797&updateAt=1550646797
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-20T021857.200.html
+
+###
+
+POST http://127.0.0.1:5000/role?roleId=inv-01&name=Inventory_Management&membership=false&promotion=false&inventory=true&createdAt=1550646797&updateAt=1550646797
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-20T021831.500.html
+
+###
+
+POST http://127.0.0.1:5000/role?roleId=inv-01&name=Inventory_Management&membership=false&promotion=false&inventory=true&createdAt=1550646797&updateAt=1550646797
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-20T021732.500.html
+
+###
+
+POST http://127.0.0.1:5000/role?roleId=inv-01&name=Inventory_Management&membership=false&promotion=false&inventory=true&createdAt=1550646797&updateAt=1550646797
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-20T021359.500.html
+
+###
+
+GET http://127.0.0.1:5000/users
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-20T010116.200.html
+
+###
+
+GET http://127.0.0.1:5000/users
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-20T125435.200.html
+
+###
+
+POST http://127.0.0.1:5000/users?name=asdads&email=adsd
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-15T124835.500.html
+
+###
+
+POST http://127.0.0.1:5000/users?name=asdads
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-15T124817.500.html
+
+###
+
+POST http://127.0.0.1:5000/users/sadjlkj?name=asdads
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-15T124810.405.html
+
+###
+
+DELETE http://127.0.0.1:5000/users/sadjlkj
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+DELETE http://127.0.0.1:5000/users/sadjlkj
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+DELETE http://127.0.0.1:5000/users/sadjlkj
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+DELETE http://127.0.0.1:5000/users/sadjlkj
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+DELETE http://127.0.0.1:5000/users/sadjlkj
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-15T124142.500.html
+
+###
+
+DELETE http://127.0.0.1:5000/users/sadjlkj
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-15T124141.500.html
+
+###
+
+DELETE http://127.0.0.1:5000/users/sadjlkj
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-15T123827.500.html
+
+###
+
+DELETE http://127.0.0.1:5000/users/sadjlkj
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-15T123818.404.html
+
+###
+
+DELETE http://127.0.0.1:5000/users/sadjlkj
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-15T123817-1.404.html
+
+###
+
+DELETE http://127.0.0.1:5000/users/sadjlkj
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-15T123817.404.html
+
+###
+
+DELETE http://127.0.0.1:5000/users/sadjlkj
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-15T123816.404.html
+
+###
+
+DELETE http://127.0.0.1:5000/users/sadjlkj
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-15T123806.404.html
+
+###
+
+DELETE http://127.0.0.1:5000/users/sadjlkj
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://127.0.0.1:5000/users
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-15T123236.200.html
+
+###
+
+GET http://127.0.0.1:5000/users
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-15T123148.200.html
+
+###
+
+GET http://127.0.0.1:5000/users
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-15T123146.200.html
+
+###
+
+GET http://127.0.0.1:5000/users
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-15T123026.500.html
+
+###
+
+GET http://127.0.0.1:5000/users
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-15T123005.200.html
+
+###
+
+GET http://127.0.0.1:5000/users
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-15T122938.500.html
+
+###
+
+GET http://127.0.0.1:5000/users
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-15T122934.500.html
+
+###
+
+GET http://127.0.0.1:5000/users
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-15T122849.500.html
+
+###
+
+POST http://127.0.0.1:5000/users
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-15T122838.200.html
+
+###
+
+POST http://127.0.0.1:5000/users
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-15T122644.500.html
+
+###
+
